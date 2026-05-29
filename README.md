@@ -44,6 +44,8 @@ function Example() {
 ## Example
 
 
+[CodeSandbox](https://codesandbox.io/p/devbox/heuristic-smoke-6d5fvd)
+
 ## License
 
 Apache-2.0 © [trishantpahwa](https://github.com/trishantpahwa)
